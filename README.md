@@ -20,10 +20,10 @@ Project2_JT.pdf: The PDF version of the Exploratory Data Analysis report, which 
 ## Dependencies
 The following packages were used in this analysis:
 
-- **Data Manipulation:**  tidyverse, lubridate
+- **Data Manipulation:**  tidyverse
 
 - **Table Formatting:** gtsummary, knitr, kableExtra
 
-- **Data Visualization:** corrplot
+- **Data Visualization:** corrplot, VIM
 
-- **Model building:** randomForest
+- **Model building:** glmnet, randomForest, pROC
