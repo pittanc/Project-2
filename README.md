@@ -13,9 +13,9 @@ Our results indicate that age and sex are the most significant predictors of per
 
 ## Files
 
-Project2_JT.Rmd: The Rmarkdown version of the Exploratory Data Analysis report, which includes both written text interpretations and raw code used in the analysis.
+Project2_JT.Rmd: The Rmarkdown version of the Regression Analysis report, which includes both written text interpretations and raw code used in the analysis.
 
-Project2_JT.pdf: The PDF version of the Exploratory Data Analysis report, which includes both written text interpretations and a Code Applendix with the raw code used in the analysis.
+Project2_JT.pdf: The PDF version of the Regression Analysis report, which includes both written text interpretations and a Code Applendix with the raw code used in the analysis.
 
 ## Dependencies
 The following packages were used in this analysis:
